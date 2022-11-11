@@ -1,3 +1,6 @@
 flask 
 cookiecutter 
 psycopg2
+pyodbc
+openpyxl
+pandas
